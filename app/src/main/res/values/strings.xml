@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Sobre Mí</string>
+    <string name="large_text">
+        "El material es la metáfora. \ N \ n"
+
+        "Una metáfora material es la teoría unificadora de un espacio racionalizado y un sistema de movimiento".
+        "El material está basado en la realidad táctil, inspirado en el estudio del papel y la tinta".
+        "tecnológicamente avanzado y abierto a la imaginación y la magia. \ n"
+        "Las superficies y los bordes del material proporcionan pistas visuales que se basan en la realidad.
+        "el uso de atributos táctiles familiares ayuda a los usuarios a comprender rápidamente las posibilidades de pago.
+        "la flexibilidad del material crea nuevas posibilidades que superan a las físicas"
+        "mundo, sin romper las reglas de la física. \ n"
+        "Los fundamentos de la luz, la superficie y el movimiento son clave para transmitir cómo se mueven los objetos"
+        "Interactuar, y existir en el espacio y en relación el uno con el otro. La iluminación realista muestra"
+        "uniones, divide el espacio e indica partes móviles. \ n \ n"
+
+        "Negrita, gráfica, intencional. \ N \ n"
+
+        "Los elementos fundamentales de la tipografía de diseño basado en impresión, cuadrículas, espacio, escala, color"
+        "y el uso de los tratamientos visuales de la guía de imágenes. Estos elementos hacen mucho más que complacer al"
+        "ojo. Crean jerarquía, significado y enfoque. Elecciones de color deliberadas, de punta a punta"
+        "Las imágenes, la tipografía a gran escala y el espacio en blanco intencional crean una imagen llamativa y gráfica"
+        "interfaz que sumerge al usuario en la experiencia. \ n"
+        "El énfasis en las acciones del usuario hace que la funcionalidad central sea inmediatamente aparente y proporcione"
+        "puntos de referencia para el usuario. \ n \ n"
+
+        "El movimiento proporciona significado. \ N \ n"
+
+        "El movimiento respeta y refuerza al usuario como motor principal. Las acciones principales del usuario son"
+        "puntos de inflexión que inician el movimiento, transformando todo el diseño. \ n"
+        "Toda acción tiene lugar en un solo entorno. Los objetos se presentan al usuario sin"
+        "rompiendo la continuidad de la experiencia incluso cuando se transforman y reorganizan. \ n"
+        "El movimiento es significativo y apropiado, lo que sirve para enfocar la atención y mantener la continuidad".
+        "Los comentarios son sutiles pero claros. Las transiciones son eficientes pero coherentes. \ N \ n"
+
+        "Mundo 3D. \ N \ n"
+
+        "El entorno material es un espacio 3D, lo que significa que todos los objetos tienen x, y y z"
+        "dimensiones. El eje z está perpendicularmente alineado con el plano de la pantalla, con el"
+        "eje z positivo que se extiende hacia el espectador. Cada hoja de material ocupa un solo"
+        "posición a lo largo del eje z y tiene un grosor estándar de 1dp. \ n"
+        "En la web, el eje z se usa para crear capas y no para ver la perspectiva. El mundo 3D es"
+        "emulado manipulando el eje y. \ n \ n"
+
+        "Luz y sombra. \ N \ n"
+
+        "Dentro del entorno material, las luces virtuales iluminan la escena. Las luces clave crean"
+        "sombras direccionales, mientras que la luz ambiental crea sombras suaves desde todos los ángulos. \ n"
+        "Las sombras en el entorno material son emitidas por estas dos fuentes de luz. En Android"
+        "desarrollo, las sombras ocurren cuando las fuentes de luz están bloqueadas por hojas de material en"
+        "varias posiciones a lo largo del eje z. En la web, las sombras se representan manipulando el"
+        "solo eje y." El siguiente ejemplo muestra la tarjeta con una altura de 6dp. \ n \ n "
+
+    </string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Correo</string>
+</resources>
